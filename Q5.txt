@@ -1,0 +1,5 @@
+void main() {
+  var a= 7;
+  for (var i=1;i<=15;i++){
+    print ('${a} x ${i} = ${a*i}');
+  }
